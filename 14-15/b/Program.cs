@@ -10,7 +10,7 @@ class Program
         int N = a.Length;
         int S = 0;
 
-        for (int i = 0; i < N; i++) // цикл с параметром
+        for (int i = 0; i < N; i++) 
         {
             S += Math.Abs(a[i] - b[i]);
         }

@@ -1,0 +1,15 @@
+C:\Users\dbata\source\repos\Labs\28-29\28-29\bin\Debug\net8.0\28-29.exe
+C:\Users\dbata\source\repos\Labs\28-29\28-29\bin\Debug\net8.0\28-29.deps.json
+C:\Users\dbata\source\repos\Labs\28-29\28-29\bin\Debug\net8.0\28-29.runtimeconfig.json
+C:\Users\dbata\source\repos\Labs\28-29\28-29\bin\Debug\net8.0\28-29.dll
+C:\Users\dbata\source\repos\Labs\28-29\28-29\bin\Debug\net8.0\28-29.pdb
+C:\Users\dbata\source\repos\Labs\28-29\28-29\obj\Debug\net8.0\28-29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dbata\source\repos\Labs\28-29\28-29\obj\Debug\net8.0\28-29.AssemblyInfoInputs.cache
+C:\Users\dbata\source\repos\Labs\28-29\28-29\obj\Debug\net8.0\28-29.AssemblyInfo.cs
+C:\Users\dbata\source\repos\Labs\28-29\28-29\obj\Debug\net8.0\28-29.csproj.CoreCompileInputs.cache
+C:\Users\dbata\source\repos\Labs\28-29\28-29\obj\Debug\net8.0\28-29.sourcelink.json
+C:\Users\dbata\source\repos\Labs\28-29\28-29\obj\Debug\net8.0\28-29.dll
+C:\Users\dbata\source\repos\Labs\28-29\28-29\obj\Debug\net8.0\refint\28-29.dll
+C:\Users\dbata\source\repos\Labs\28-29\28-29\obj\Debug\net8.0\28-29.pdb
+C:\Users\dbata\source\repos\Labs\28-29\28-29\obj\Debug\net8.0\28-29.genruntimeconfig.cache
+C:\Users\dbata\source\repos\Labs\28-29\28-29\obj\Debug\net8.0\ref\28-29.dll

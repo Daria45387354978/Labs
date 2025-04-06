@@ -1,0 +1,15 @@
+C:\Users\dbata\source\repos\Labs\20-21\20-21\bin\Debug\net8.0\20-21.exe
+C:\Users\dbata\source\repos\Labs\20-21\20-21\bin\Debug\net8.0\20-21.deps.json
+C:\Users\dbata\source\repos\Labs\20-21\20-21\bin\Debug\net8.0\20-21.runtimeconfig.json
+C:\Users\dbata\source\repos\Labs\20-21\20-21\bin\Debug\net8.0\20-21.dll
+C:\Users\dbata\source\repos\Labs\20-21\20-21\bin\Debug\net8.0\20-21.pdb
+C:\Users\dbata\source\repos\Labs\20-21\20-21\obj\Debug\net8.0\20-21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dbata\source\repos\Labs\20-21\20-21\obj\Debug\net8.0\20-21.AssemblyInfoInputs.cache
+C:\Users\dbata\source\repos\Labs\20-21\20-21\obj\Debug\net8.0\20-21.AssemblyInfo.cs
+C:\Users\dbata\source\repos\Labs\20-21\20-21\obj\Debug\net8.0\20-21.csproj.CoreCompileInputs.cache
+C:\Users\dbata\source\repos\Labs\20-21\20-21\obj\Debug\net8.0\20-21.sourcelink.json
+C:\Users\dbata\source\repos\Labs\20-21\20-21\obj\Debug\net8.0\20-21.dll
+C:\Users\dbata\source\repos\Labs\20-21\20-21\obj\Debug\net8.0\refint\20-21.dll
+C:\Users\dbata\source\repos\Labs\20-21\20-21\obj\Debug\net8.0\20-21.pdb
+C:\Users\dbata\source\repos\Labs\20-21\20-21\obj\Debug\net8.0\20-21.genruntimeconfig.cache
+C:\Users\dbata\source\repos\Labs\20-21\20-21\obj\Debug\net8.0\ref\20-21.dll

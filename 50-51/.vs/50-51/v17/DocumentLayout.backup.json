@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dbata\\source\\repos\\Labs\\50-51\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0AE8E3D-72AE-40F1-9D4F-82274154742F}|50-51\\50-51.csproj|c:\\users\\dbata\\source\\repos\\labs\\50-51\\50-51\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0AE8E3D-72AE-40F1-9D4F-82274154742F}|50-51\\50-51.csproj|solutionrelative:50-51\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dbata\\source\\repos\\Labs\\50-51\\50-51\\Program.cs",
+              "RelativeDocumentMoniker": "50-51\\Program.cs",
+              "ToolTip": "C:\\Users\\dbata\\source\\repos\\Labs\\50-51\\50-51\\Program.cs*",
+              "RelativeToolTip": "50-51\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T16:00:26.128Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

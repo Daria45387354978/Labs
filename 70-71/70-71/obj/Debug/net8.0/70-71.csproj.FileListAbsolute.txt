@@ -1,0 +1,15 @@
+C:\Users\dbata\source\repos\Labs\70-71\70-71\bin\Debug\net8.0\70-71.exe
+C:\Users\dbata\source\repos\Labs\70-71\70-71\bin\Debug\net8.0\70-71.deps.json
+C:\Users\dbata\source\repos\Labs\70-71\70-71\bin\Debug\net8.0\70-71.runtimeconfig.json
+C:\Users\dbata\source\repos\Labs\70-71\70-71\bin\Debug\net8.0\70-71.dll
+C:\Users\dbata\source\repos\Labs\70-71\70-71\bin\Debug\net8.0\70-71.pdb
+C:\Users\dbata\source\repos\Labs\70-71\70-71\obj\Debug\net8.0\70-71.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dbata\source\repos\Labs\70-71\70-71\obj\Debug\net8.0\70-71.AssemblyInfoInputs.cache
+C:\Users\dbata\source\repos\Labs\70-71\70-71\obj\Debug\net8.0\70-71.AssemblyInfo.cs
+C:\Users\dbata\source\repos\Labs\70-71\70-71\obj\Debug\net8.0\70-71.csproj.CoreCompileInputs.cache
+C:\Users\dbata\source\repos\Labs\70-71\70-71\obj\Debug\net8.0\70-71.sourcelink.json
+C:\Users\dbata\source\repos\Labs\70-71\70-71\obj\Debug\net8.0\70-71.dll
+C:\Users\dbata\source\repos\Labs\70-71\70-71\obj\Debug\net8.0\refint\70-71.dll
+C:\Users\dbata\source\repos\Labs\70-71\70-71\obj\Debug\net8.0\70-71.pdb
+C:\Users\dbata\source\repos\Labs\70-71\70-71\obj\Debug\net8.0\70-71.genruntimeconfig.cache
+C:\Users\dbata\source\repos\Labs\70-71\70-71\obj\Debug\net8.0\ref\70-71.dll

@@ -1,0 +1,15 @@
+C:\Users\dbata\source\repos\Labs\60-61\60-61\bin\Debug\net8.0\60-61.exe
+C:\Users\dbata\source\repos\Labs\60-61\60-61\bin\Debug\net8.0\60-61.deps.json
+C:\Users\dbata\source\repos\Labs\60-61\60-61\bin\Debug\net8.0\60-61.runtimeconfig.json
+C:\Users\dbata\source\repos\Labs\60-61\60-61\bin\Debug\net8.0\60-61.dll
+C:\Users\dbata\source\repos\Labs\60-61\60-61\bin\Debug\net8.0\60-61.pdb
+C:\Users\dbata\source\repos\Labs\60-61\60-61\obj\Debug\net8.0\60-61.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dbata\source\repos\Labs\60-61\60-61\obj\Debug\net8.0\60-61.AssemblyInfoInputs.cache
+C:\Users\dbata\source\repos\Labs\60-61\60-61\obj\Debug\net8.0\60-61.AssemblyInfo.cs
+C:\Users\dbata\source\repos\Labs\60-61\60-61\obj\Debug\net8.0\60-61.csproj.CoreCompileInputs.cache
+C:\Users\dbata\source\repos\Labs\60-61\60-61\obj\Debug\net8.0\60-61.sourcelink.json
+C:\Users\dbata\source\repos\Labs\60-61\60-61\obj\Debug\net8.0\60-61.dll
+C:\Users\dbata\source\repos\Labs\60-61\60-61\obj\Debug\net8.0\refint\60-61.dll
+C:\Users\dbata\source\repos\Labs\60-61\60-61\obj\Debug\net8.0\60-61.pdb
+C:\Users\dbata\source\repos\Labs\60-61\60-61\obj\Debug\net8.0\60-61.genruntimeconfig.cache
+C:\Users\dbata\source\repos\Labs\60-61\60-61\obj\Debug\net8.0\ref\60-61.dll

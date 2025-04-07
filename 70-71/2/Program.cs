@@ -1,25 +1,20 @@
 ﻿
-    public class Program
+class Program
+{
+    static void Main()
     {
-        public class Employee
+        var products = new[]
         {
-            public string Name;
-            public int Age;
-            public string Department;
-        }
+            new { Name = "Яблоко", Price = 100 },
+            new { Name = "Банан", Price = 80 },
+            new { Name = "Груша", Price = 120 },
+        };
 
-        public static Employee[] employees =
-            {
-                new() { Name = "Иван", Age = 28, Department = "IT" },
-                new() { Name = "Мария", Age = 34, Department = "HR" },
-                new() { Name = "Анна", Age = 25, Department = "Finance" },
-                new() { Name = "Дмитрий", Age = 30, Department = "IT" },
-            };
+        var productNames = products.Select(p => p.Name);
 
-        static void Main(string[] args)
+        foreach (var name in productNames)
         {
-            Console.WriteLine(string.Join("\n", employees.Where(e => e.Department == "IT").Select(s => $"{s.Name} в {s.Department}")));
+            Console.WriteLine(name);
         }
-
     }
-
+}

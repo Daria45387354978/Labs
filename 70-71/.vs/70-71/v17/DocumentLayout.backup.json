@@ -3,12 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{64612624-7ADE-4900-848B-3BE901391C77}|21\\21.csproj|c:\\users\\dbata\\source\\repos\\labs\\70-71\\21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64612624-7ADE-4900-848B-3BE901391C77}|21\\21.csproj|solutionrelative:21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0ABCDE-A688-4D10-A2DD-02C1EA7F03E7}|2\\2.csproj|c:\\users\\dbata\\source\\repos\\labs\\70-71\\2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0ABCDE-A688-4D10-A2DD-02C1EA7F03E7}|2\\2.csproj|solutionrelative:2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{558B3C1D-C14F-41A8-A022-69ACC550F882}|20\\20.csproj|c:\\users\\dbata\\source\\repos\\labs\\70-71\\20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{558B3C1D-C14F-41A8-A022-69ACC550F882}|20\\20.csproj|solutionrelative:20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5228A789-90CC-4593-AF33-27CE19EABAD1}|19\\19.csproj|c:\\users\\dbata\\source\\repos\\labs\\70-71\\19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5228A789-90CC-4593-AF33-27CE19EABAD1}|19\\19.csproj|solutionrelative:19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5988FAC1-CB76-45A3-91BC-DFC94394C1F1}|18\\18.csproj|c:\\users\\dbata\\source\\repos\\labs\\70-71\\18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5988FAC1-CB76-45A3-91BC-DFC94394C1F1}|18\\18.csproj|solutionrelative:18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928960D8-60EC-4C9F-9F0B-B756D77AA172}|17\\17.csproj|c:\\users\\dbata\\source\\repos\\labs\\70-71\\17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928960D8-60EC-4C9F-9F0B-B756D77AA172}|17\\17.csproj|solutionrelative:17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C38FB29-99EC-413F-A0DB-C891F7A4DE91}|16\\16.csproj|c:\\users\\dbata\\source\\repos\\labs\\70-71\\16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C38FB29-99EC-413F-A0DB-C891F7A4DE91}|16\\16.csproj|solutionrelative:16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7521759-EB4F-470B-8A01-9A763BCF4CD0}|15\\15.csproj|c:\\users\\dbata\\source\\repos\\labs\\70-71\\15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7521759-EB4F-470B-8A01-9A763BCF4CD0}|15\\15.csproj|solutionrelative:15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28435D86-A0FF-4005-B111-EE4FFC134BF0}|14\\14.csproj|c:\\users\\dbata\\source\\repos\\labs\\70-71\\14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28435D86-A0FF-4005-B111-EE4FFC134BF0}|14\\14.csproj|solutionrelative:14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0461DA74-7A79-42CD-92CC-02BAE85331EC}|13\\13.csproj|c:\\users\\dbata\\source\\repos\\labs\\70-71\\13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0461DA74-7A79-42CD-92CC-02BAE85331EC}|13\\13.csproj|solutionrelative:13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA3BFB6-8A46-47BE-AC16-D486920D5A18}|12\\12.csproj|c:\\users\\dbata\\source\\repos\\labs\\70-71\\12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EA3BFB6-8A46-47BE-AC16-D486920D5A18}|12\\12.csproj|solutionrelative:12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4E8B02-88DC-4DA9-B528-E9A531BB1362}|11\\11.csproj|c:\\users\\dbata\\source\\repos\\labs\\70-71\\11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4E8B02-88DC-4DA9-B528-E9A531BB1362}|11\\11.csproj|solutionrelative:11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98332989-F002-46E4-8481-01346FFA188F}|10\\10.csproj|c:\\users\\dbata\\source\\repos\\labs\\70-71\\10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98332989-F002-46E4-8481-01346FFA188F}|10\\10.csproj|solutionrelative:10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC1609E-6AE2-4BB8-A37A-01006C7C8630}|9\\9.csproj|c:\\users\\dbata\\source\\repos\\labs\\70-71\\9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEC1609E-6AE2-4BB8-A37A-01006C7C8630}|9\\9.csproj|solutionrelative:9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2221367F-2FCD-4BD9-8EFA-85CF069C6752}|8\\8.csproj|c:\\users\\dbata\\source\\repos\\labs\\70-71\\8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2221367F-2FCD-4BD9-8EFA-85CF069C6752}|8\\8.csproj|solutionrelative:8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7CB61688-773C-4417-8CCB-07C52811965D}|7\\7.csproj|c:\\users\\dbata\\source\\repos\\labs\\70-71\\7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CB61688-773C-4417-8CCB-07C52811965D}|7\\7.csproj|solutionrelative:7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E73835-A9C5-4477-B248-B4B5EF211D79}|6\\6.csproj|c:\\users\\dbata\\source\\repos\\labs\\70-71\\6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93E73835-A9C5-4477-B248-B4B5EF211D79}|6\\6.csproj|solutionrelative:6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC94E6F-2BFA-44D5-9F78-A0FF77159BE8}|3\\3.csproj|c:\\users\\dbata\\source\\repos\\labs\\70-71\\3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC94E6F-2BFA-44D5-9F78-A0FF77159BE8}|3\\3.csproj|solutionrelative:3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C5AEA9E-3C08-4A14-A514-77530B5BD967}|70-71\\70-71.csproj|c:\\users\\dbata\\source\\repos\\labs\\70-71\\70-71\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,20 +83,8 @@
       "RelativeMoniker": "D:0:0:{5C2A477B-A3C6-4C94-B35C-0EB0B839BC4E}|4\\4.csproj|solutionrelative:4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93E73835-A9C5-4477-B248-B4B5EF211D79}|6\\6.csproj|c:\\users\\dbata\\source\\repos\\labs\\70-71\\6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93E73835-A9C5-4477-B248-B4B5EF211D79}|6\\6.csproj|solutionrelative:6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{382913FE-EA0D-4AA8-97D3-603F12621967}|5\\5.csproj|c:\\users\\dbata\\source\\repos\\labs\\70-71\\5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{382913FE-EA0D-4AA8-97D3-603F12621967}|5\\5.csproj|solutionrelative:5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFC94E6F-2BFA-44D5-9F78-A0FF77159BE8}|3\\3.csproj|c:\\users\\dbata\\source\\repos\\labs\\70-71\\3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFC94E6F-2BFA-44D5-9F78-A0FF77159BE8}|3\\3.csproj|solutionrelative:3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C0ABCDE-A688-4D10-A2DD-02C1EA7F03E7}|2\\2.csproj|c:\\users\\dbata\\source\\repos\\labs\\70-71\\2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C0ABCDE-A688-4D10-A2DD-02C1EA7F03E7}|2\\2.csproj|solutionrelative:2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,6 +100,188 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\21\\Program.cs",
+              "RelativeDocumentMoniker": "21\\Program.cs",
+              "ToolTip": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\21\\Program.cs",
+              "RelativeToolTip": "21\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T10:51:41.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\20\\Program.cs",
+              "RelativeDocumentMoniker": "20\\Program.cs",
+              "ToolTip": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\20\\Program.cs",
+              "RelativeToolTip": "20\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T10:50:12.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\18\\Program.cs",
+              "RelativeDocumentMoniker": "18\\Program.cs",
+              "ToolTip": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\18\\Program.cs",
+              "RelativeToolTip": "18\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T10:48:09.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\17\\Program.cs",
+              "RelativeDocumentMoniker": "17\\Program.cs",
+              "ToolTip": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\17\\Program.cs",
+              "RelativeToolTip": "17\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T10:46:51.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\16\\Program.cs",
+              "RelativeDocumentMoniker": "16\\Program.cs",
+              "ToolTip": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\16\\Program.cs",
+              "RelativeToolTip": "16\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T10:46:02.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\15\\Program.cs",
+              "RelativeDocumentMoniker": "15\\Program.cs",
+              "ToolTip": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\15\\Program.cs",
+              "RelativeToolTip": "15\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T10:45:18.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\2\\Program.cs",
+              "RelativeDocumentMoniker": "2\\Program.cs",
+              "ToolTip": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\2\\Program.cs",
+              "RelativeToolTip": "2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:24:57.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\19\\Program.cs",
+              "RelativeDocumentMoniker": "19\\Program.cs",
+              "ToolTip": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\19\\Program.cs",
+              "RelativeToolTip": "19\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T10:49:26.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\14\\Program.cs",
+              "RelativeDocumentMoniker": "14\\Program.cs",
+              "ToolTip": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\14\\Program.cs",
+              "RelativeToolTip": "14\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T10:44:27.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\13\\Program.cs",
+              "RelativeDocumentMoniker": "13\\Program.cs",
+              "ToolTip": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\13\\Program.cs",
+              "RelativeToolTip": "13\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T10:42:43.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\12\\Program.cs",
+              "RelativeDocumentMoniker": "12\\Program.cs",
+              "ToolTip": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\12\\Program.cs",
+              "RelativeToolTip": "12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T10:41:45.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\11\\Program.cs",
+              "RelativeDocumentMoniker": "11\\Program.cs",
+              "ToolTip": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\11\\Program.cs",
+              "RelativeToolTip": "11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T10:40:48.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\10\\Program.cs",
+              "RelativeDocumentMoniker": "10\\Program.cs",
+              "ToolTip": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\10\\Program.cs",
+              "RelativeToolTip": "10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T10:39:37.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\9\\Program.cs",
+              "RelativeDocumentMoniker": "9\\Program.cs",
+              "ToolTip": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\9\\Program.cs",
+              "RelativeToolTip": "9\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T10:37:37.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\8\\Program.cs",
               "RelativeDocumentMoniker": "8\\Program.cs",
               "ToolTip": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\8\\Program.cs",
@@ -59,20 +293,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\7\\Program.cs",
               "RelativeDocumentMoniker": "7\\Program.cs",
               "ToolTip": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\7\\Program.cs",
               "RelativeToolTip": "7\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-06T17:30:15.702Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\6\\Program.cs",
               "RelativeDocumentMoniker": "6\\Program.cs",
@@ -85,59 +319,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\5\\Program.cs",
               "RelativeDocumentMoniker": "5\\Program.cs",
               "ToolTip": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\5\\Program.cs",
               "RelativeToolTip": "5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-06T17:27:23.127Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\4\\Program.cs",
               "RelativeDocumentMoniker": "4\\Program.cs",
               "ToolTip": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\4\\Program.cs",
               "RelativeToolTip": "4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-06T17:26:50.744Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\3\\Program.cs",
               "RelativeDocumentMoniker": "3\\Program.cs",
               "ToolTip": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\3\\Program.cs",
               "RelativeToolTip": "3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-06T17:25:55.881Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\2\\Program.cs",
-              "RelativeDocumentMoniker": "2\\Program.cs",
-              "ToolTip": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\2\\Program.cs",
-              "RelativeToolTip": "2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T17:24:57.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dbata\\source\\repos\\Labs\\70-71\\70-71\\Program.cs",
               "RelativeDocumentMoniker": "70-71\\Program.cs",

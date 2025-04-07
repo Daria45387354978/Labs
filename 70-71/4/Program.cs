@@ -10,8 +10,7 @@
          {
                 new() { Brand = "Toyota", Year = 2020 },
                 new() { Brand = "Honda", Year = 2018 },
-                new() { Brand = "Ford", Year = 2021 },
-
+                new() { Brand = "Ford", Year = 2021 }
 
             };
 
